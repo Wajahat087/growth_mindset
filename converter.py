@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import os
 from io import BytesIO
-import docx
+# import docx
 from docx import Document
 
 st.set_page_config(page_title="Data Sweeper", layout='wide')
